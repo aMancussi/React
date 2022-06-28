@@ -14,8 +14,10 @@ const App = () => {
 
   return (
       <Container>
-				
+				<ColIcon>
+        
         <p></p>
+        </ColIcon>
       </Container>
   )
 }
